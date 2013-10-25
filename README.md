@@ -2,6 +2,8 @@
 
 ### Overview
 
+Foo.
+
 Archery is a two-dimensional [R-Tree](http://en.wikipedia.org/wiki/R-tree)
 written in Scala. The implementation is immutable: adding and removing points
 from the tree produces a new tree, leaving the old one untouched. Due to
